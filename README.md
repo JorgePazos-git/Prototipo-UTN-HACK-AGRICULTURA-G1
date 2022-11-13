@@ -1,2 +1,2 @@
 # Prototipo-UTN-HACK-AGRICULTURA-G1
-Aplicación en Android 
+Software de visión artificial
